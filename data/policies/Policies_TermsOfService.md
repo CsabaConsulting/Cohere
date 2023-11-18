@@ -1,0 +1,872 @@
+# Terms of Service
+## Category: Policies
+
+**PLEASE READ THESE TERMS OF SERVICE CAREFULLY. BY CLICKING "ACCEPTED
+AND AGREED TO," CUSTOMER AGREES TO THESE TERMS AND CONDITIONS.**
+
+These Terms of Service along with and including the Policies identified
+in Section 1 (*Definitions*) below constitute an agreement (this
+"[Agreement]{.underline}") by and between Business BrainScience LLC, a
+Limited Liability Company and its members and shareholders as
+individuals, whose principal place of business is Fresno, California
+("[Vendor]{.underline}") and the corporation, LLC, partnership, sole
+proprietorship, individual, or other entity executing this Agreement
+("[Customer]{.underline}"). The Vendor and Customer are sometimes
+referred to individually as a "Party" and collectively as the "Parties".
+
+This Agreement is effective as of the date Customer clicks "Accepted and
+Agreed To" (the "[Effective Date]{.underline}"). Customer's use of and
+Vendor's provision of the *ThruThink*® website and the *ThruThink*®
+business analysis platform (Vendor's System as defined below in Section
+1.16 (*System*)) are governed by this Agreement, as are Customer's
+authorizations to grant its own customers use of the System.
+
+EACH PARTY ACKNOWLEDGES THAT IT HAS READ THIS AGREEMENT, UNDERSTANDS IT,
+AND AGREES TO BE BOUND BY ITS TERMS, AND THAT THE PERSON ACCEPTING ON
+ITS BEHALF HAS BEEN AUTHORIZED TO DO SO. THE PERSON ACCEPTING THIS
+AGREEMENT ON CUSTOMER'S BEHALF REPRESENTS THAT HE OR SHE HAS THE
+AUTHORITY TO BIND CUSTOMER TO THESE TERMS AND CONDITIONS.
+
+1.  **[DEFINITIONS]{.underline}.** The following terms shall have the
+    following meanings whenever used in this Agreement.
+
+    1.  "[Acceptable Use Policy]{.underline}" (AUP) means Vendor's
+        acceptable use policy incorporated in this Agreement and
+        currently posted at ThruThink.com. [Acceptable Use Policy
+        (AUP)](https://app.thruthink.com/docs/ThruThink AUP.pdf)
+
+    2.  \"[Browser]{.underline}\" means the software application used
+        for retrieving, presenting and traversing information resources
+        on the internet used by the User.
+
+    3.  "[Customer Data]{.underline}" means data, in electronic form,
+        entered, inputted or collected into or through the System by or
+        from Customer, including without limitation by Customer's Sub
+        Users or by other Users.
+
+    4.  "[Documentation]{.underline}" means Vendor\'s help dialog,
+        customer service responses and Chat Responses related to use of
+        the System.
+
+    5.  "[Fees]{.underline}" mean the Subscription Fee, the Quick Deal
+        Fee and any other fees charged by Vendor.
+
+    6.  \"[Master Account]{.underline}\" means an account that permits
+        sub users (Sub Users)
+
+    7.  "[Privacy Policy]{.underline}" means Vendor's privacy policy,
+        currently posted at ThruThink.com. [Privacy
+        Policy](https://app.thruthink.com/docs/ThruThink Privacy Policy.pdf)
+
+    8.  ["](https://app.thruthink.com/docs/ThruThink Privacy Policy.pdf)[Quick
+        Deal]{.underline}" means a one-time only use of the Quick Deal
+        portion of the System.
+
+    9.  "[Quick Deal Fee]{.underline}" means the fee charged for the
+        Quick Deal.
+
+    10. \"[Service]{.underline}\" means Customers or Sub Users use of
+        the System
+
+    11. "[Service Level Agreement]{.underline}" (SLA) means Vendor's
+        standard service level agreement incorporated in this Agreement
+        and posted at ThruThink.com. [Service Level Agreement
+        (SLA)](https://app.thruthink.com/docs/ThruThink SLA.pdf)
+
+    12. ["](https://app.thruthink.com/docs/ThruThink SLA.pdf)[Sub
+        User]{.underline}" means any of Customer's employees, clients or
+        customers or other third parties Customer gives access to the
+        System, including without limitation such companies' agents and
+        employees.
+
+    13. "[Sub User Agreement]{.underline}" means such terms of service
+        as Vendor may require for users of the System who are not signed
+        up as Customers incorporated in this Agreement and posted at
+        ThruThink.com. [Sub User
+        Agreement](https://app.thruthink.com/docs/ThruThink Sub User TOS.pdf)
+
+    14. [\"](https://app.thruthink.com/docs/ThruThink Sub User TOS.pdf)[Subscription]{.underline}\"
+        means the permission the Vendor provides the Customer to access
+        the System during the Term or in the case of the Quick Deal, the
+        one-time only access.
+
+    15. \"[Subscription Fee]{.underline}\" means the fee charged by the
+        Vendor for the Subscription.
+
+    16. [\"System\"]{.underline} The System means the website
+        ThruThink.com and the *ThruThink*® business analysis platform
+        including its Documentation, components, design, software code,
+        user interface, architecture, methodology, features, functions,
+        formulas, calculations, charts, schematics and methods of
+        analysis, business logic and reports generated by the System.
+
+    17. "[Term]{.underline}" is defined in Section 11.1 (*Term*) below
+        and includes any renewal periods.
+
+    18. \"[Third Party Websites]{.underline}\" refers to links in the
+        Vendors website that lead to a third party website and the
+        compensation thereof, see Sections 8.7 and 8.8 (*Third Party
+        Websites and Compensation*).
+
+    19. "[User]{.underline}" means the Customer and/or any company or
+        individual who uses the System through Customer's Subscription
+        or passwords or on Customer's behalf or, whether authorized or
+        not, including without limitation Customer's Sub Users.
+
+2.  **[THE SYSTEM]{.underline}.**
+
+    1.  [Use of the System]{.underline}. During the Term, Customer may
+        access and use the System and Service pursuant to: (a) the terms
+        of any outstanding Subscription, including such features and
+        functions as the Subscription allows or requires; and (b)
+        Vendor's policies posted on its Website at ThruThink.com, as
+        such policies may be updated from time to time.
+
+    2.  [Browser]{.underline}. The System is best accessed using the
+        Google Chrome browser.
+
+    3.  [Service Levels]{.underline}. Vendor shall provide the remedies
+        listed in the SLA for any failure of the System listed in the
+        SLA. Such remedies are Customer's sole remedy for any failure of
+        the System, and Customer recognizes and agrees that if the SLA
+        does not list a remedy for a given failure, it has no remedy.
+        Credits issued pursuant to the SLA apply to outstanding or
+        future invoices only and are forfeit upon termination of this
+        Agreement. Vendor is not required to issue refunds or to make
+        payments against such credits under any circumstances, including
+        without limitation after termination of this Agreement.
+
+    4.  [Documentation.]{.underline} The Documentation is solely for the
+        use by the Customer as necessary to support Users' use of the
+        System. Any suggestions or advice contained in the Documentation
+        is for the Customers convenience and does not constitute advice
+        or recommendations as to the outcome of the Customers or Sub
+        Users business.
+
+    5.  [Chat Responses.]{.underline} The system may provide a Chat
+        response system. If such a feature is provided, all Chat dialog
+        responses from *ThruThink*® are for the Users convenience and do
+        not constitute advice or recommendations as to the outcome of
+        the Customers or Sub Users business.
+
+    6.  [System Revisions]{.underline}. Vendor may revise System
+        features and functions or the SLA at any time, including without
+        limitation by removing such features and functions or reducing
+        service levels. If any such revision to the System materially
+        reduces features or functionality provided pursuant to a
+        Subscription, Customer may within 30 days of notice of the
+        revision terminate such Subscription, without cause, or
+        terminate this Agreement without cause.
+
+    7.  [Customer's Employees and/or Clients (Sub Users)]{.underline}.
+        Subject to the provisions below of this Section 2.7 (*The
+        System-Sub Users*), Customer may authorize Sub Users to access
+        and use the System in such numbers and according to such
+        restrictions as are set forth in the applicable Subscription.
+        Customer shall: (a) provide access to the System through the
+        Customers Master Account and; (b) each Sub User will be required
+        to read and accept the Sub Users Terms and Conditions which will
+        incorporate the Customers Terms and Conditions and; (c) each Sub
+        User will be required to provide complete name and contact
+        information. Customer shall make no representations or
+        warranties regarding the System or any other matter, to Sub User
+        or any other third party, from or on behalf of Vendor, and
+        Customer shall not create or purport to create any obligations
+        or liabilities for Vendor. Vendor may reject any proposed
+        Customer's Sub Users for any reason that does not violate
+        applicable law, in its sole discretion. Customer shall be
+        jointly and severally liable to Vendor for Customer's Sub Users
+        compliance with this Agreement as well as the Sub User
+        Agreement. Vendor shall have no obligation to provide support or
+        other services, SLA remedies, or other remedies to each of
+        Customers individual Sub Users.
+
+3.  **[SYSTEM FEES]{.underline}.** Customer shall pay Vendor the
+    Subscription Fee or the Quick Deal Fee set forth in each
+    Subscription or Quick Deal for the applicable Term. With a
+    Subscription, prior to the expiration of the Term, Vendor will
+    provide the Customer a 30 day notice of renewal for another Term.
+    Unless the Customer notifies Vendor that it does not desire to renew
+    within that 30 day period, the Subscription will automatically renew
+    and the Subscription Fee will be billed using the same payment
+    information on file with the Vendor. If the payment information is
+    not current at the time of renewal, Customer will be notified and
+    will have 10 days to pay until the Subscription will be subject to
+    Termination. Vendor will not be required to refund the Subscription
+    Fee under any circumstances. With the Quick Deal, it is a one-time
+    only use of the System with no automatic renewal provisions.
+
+    1.  [Credit Card payments]{.underline}. Credit card payments will be
+        accepted as payment of the Fees using an outside payment
+        service. Vendor will not have access to or knowledge of the
+        Customers credit card or payment information. The Vendor will
+        use a service that is commonly accepted in the industry for
+        processing such payments, however Vendor makes no warranties or
+        guarantees regarding the security of the outside payment
+        service. The Customer may request at the time of initiating a
+        Subscription the name of the credit card processing service
+        being used by the Vendor.
+
+    2.  [Taxes]{.underline}. All Fees charged by Vendor exclude any
+        sales, use, value added fees or other taxes or fees imposed by
+        any City, County, State, Province, Region or Country (Government
+        Authorities) on the use of the System or Service provided by the
+        Vendor to the Customer. If any such fees or taxes are assessed
+        or become due either by the Vendor\'s Government Authorities or
+        by the Customers Government Authorities, the Customer will be
+        responsible for paying those applicable fees or taxes that apply
+        to the Subscription or Quick Deal or the provision of the
+        Vendors Service to the Customer. If applicable, Vendor may
+        invoice Customer for any such fees or taxes and will be due and
+        payable within 10 days of notice by e-mail from Vendor.
+        Nonpayment of such fees will be cause for Termination of this
+        Agreement for Cause by the Vendor.
+
+4.   **[CUSTOMER DATA & PRIVACY]{.underline}.**
+
+    1.  [Customer Data]{.underline}. \"Customer Data\" means all
+        information entered or provided by the User to be processed and
+        calculated by Vendors System and the resulting calculation
+        results, all saved and stored by User, Customer or on Customer's
+        behalf on Vendors server, computers or other electronic media or
+        provided to Vendor for such processing or storage, as well as
+        any information derived from such information. Customer Data
+        includes, without limitation: (a) information provided to,
+        entered or inputted into Vendors System by the Customer,
+        information on paper or other non-electronic media provided to
+        Vendor for computer processing or storage, or information
+        formerly on electronic media; (b) information and data inputs
+        provided to Vendor by Customers Sub Users or other users or by
+        other third parties; and (c) personally identifiable information
+        from Customers, Sub Users, or other third parties.
+
+    2.  [Use of Customer Data]{.underline}. Unless it receives
+        Customer's prior written consent, Vendor: (a) shall not access,
+        process, or otherwise use Customer Data other than as necessary
+        to facilitate the System; and (b) shall not intentionally grant
+        any third party access to Customer Data, including without
+        limitation Vendor's other customers, except subcontractors that
+        are subject to a reasonable nondisclosure agreement.
+        Notwithstanding the foregoing, Vendor may disclose Customer Data
+        as required by applicable law or by proper legal or governmental
+        authority. Vendor shall give Customer prompt notice of any such
+        legal or governmental demand and reasonably cooperate with
+        Customer in any effort to seek a protective order or otherwise
+        to contest such required disclosure, at Customer's expense.
+
+    3.  [Privacy Policy]{.underline}. The Privacy Policy applies only to
+        the System and does not apply to any third party website or
+        service linked to the System or recommended or referred to
+        through the System or by Vendor's staff. The Privacy Policy is
+        incorporated in this Agreement and posted at ThruThink.com
+        [Privacy
+        Policy](https://app.thruthink.com/docs/ThruThink Privacy Policy.pdf)
+
+    4.  [Risk of Exposure]{.underline}. Customer recognizes and agrees
+        that hosting data online involves risks of unauthorized
+        disclosure or exposure and that, in accessing and using the
+        System, Customer assumes such risks. Vendor offers no
+        representation, warranty, or guarantee that Customer Data will
+        not be exposed or disclosed through errors or the actions of
+        third parties.
+
+    5.  [Data Accuracy]{.underline}. Vendor shall have no responsibility
+        or liability for the accuracy of data entered, inputted or
+        uploaded to the System by Users, including without limitation
+        Customer Data and any other data uploaded by Users.
+
+    6.  [Data Deletion]{.underline}. Vendor may permanently erase
+        Customer Data if Customer\'s Subscription is delinquent,
+        suspended, or terminated for 30 days or more.
+
+    7.  [Excluded Data]{.underline}. Customer represents and warrants
+        that Customer Data does not and will not include, and Customer
+        has not and shall not enter, input, upload or transmit to
+        Vendor\'s computers or other media, any data that is fraudulent
+        or illegal ("[Excluded Data]{.underline}") regulated pursuant to
+        any law, rule, order or regulation of any governmental entity
+        having jurisdiction over such data (the \"[Excluded Data
+        Laws]{.underline}\"). CUSTOMER RECOGNIZES AND AGREES THAT: (a)
+        VENDOR HAS NO LIABILITY FOR ANY FAILURE TO PROVIDE PROTECTIONS
+        SET FORTH IN THE EXCLUDED DATA LAWS OR OTHERWISE TO PROTECT
+        EXCLUDED DATA; AND (b) VENDOR'S SYSTEMS ARE NOT INTENDED FOR
+        MANAGEMENT OR PROTECTION OF EXCLUDED DATA AND MAY NOT PROVIDE
+        ADEQUATE OR LEGALLY REQUIRED SECURITY FOR EXCLUDED DATA.
+
+    8.  [Aggregate & Anonymized Data]{.underline}. Notwithstanding the
+        provisions of this Section 4 *(Customer Data and Privacy)*,
+        Vendor may use, reproduce, sell, publicize, or otherwise exploit
+        Aggregate Data in any way, in its sole discretion. ("[Aggregate
+        Data]{.underline}" refers to Customer Data with the following
+        removed: personally identifiable information and the names and
+        addresses of Customer and any of its Users.)
+
+    9.  [Vendor Audit]{.underline}. Vendor may audit Customers use of
+        the System and may suspend Customer's access to the System if
+        Vendor finds in its sole discretion that Customer is violating
+        any provision of this Agreement and or any accompanying
+        agreements.
+
+5.  **[CUSTOMER'S RESPONSIBILITIES & RESTRICTIONS]{.underline}.**
+
+    1.  [Acceptable Use]{.underline}. Customer shall comply with the
+        AUP. Customer shall not: (a) use the System for service bureau
+        or time-sharing purposes or in any other way allow third parties
+        to exploit the System, except Customer's Sub Users as
+        specifically authorized by this Agreement and the provisions of
+        the Subscription; (b) provide System passwords or other log-in
+        information to any third party, except Customer's Sub Users as
+        specifically authorized by this Agreement and ; (c) share
+        non-public System features or content with any third party;
+        or (d) access the System in order to build a competitive product
+        or service, to build a product using similar ideas, features,
+        functions or graphics of the System, or to copy any ideas,
+        features, functions, calculations or graphics of the System. In
+        the event that it suspects any breach of the requirements of
+        this Section 5.1 (*Acceptable Use*), including without
+        limitation by Users, Vendor may suspend User's access to the
+        System without advanced notice, in addition to such other
+        remedies as Vendor may have. Neither this Agreement nor the AUP
+        requires that Vendor take any action against Customer or any
+        User or other third party for violating the AUP, this Section
+        5.1 (*Acceptable Use)*, or this Agreement, but Vendor is free to
+        take any such action it sees fit.
+
+    2.  [Unauthorized Access]{.underline}. Customer shall take
+        reasonable steps to prevent unauthorized access to the System,
+        including without limitation by protecting its passwords and
+        other log-in information. Customer shall notify Vendor
+        immediately of any known or suspected unauthorized use of the
+        System or breach of its security and shall use best efforts to
+        stop said breach.
+
+    3.  [Compliance with Laws]{.underline}. In its use of the System,
+        Customer shall comply with all applicable laws, including
+        without limitation laws governing the protection of personally
+        identifiable information and other laws applicable to the
+        protection of Customer Data.
+
+    4.  [Sub Users; System Access]{.underline}. Customer is responsible
+        and liable for: (a) Customer's Sub Users and other Users use of
+        the System, including without limitation unauthorized User
+        conduct and any User conduct that would violate the AUP or the
+        requirements of this Agreement applicable to Customer; (b) any
+        use of the System through Customer\'s Subscription, whether
+        authorized or unauthorized; and (c) protecting access to the
+        Customer\'s Subscription.
+
+6.  **[INTELECTUAL PROPERTY (IP) & FEEDBACK]{.underline}.**
+
+    1.  [IP Rights to the System]{.underline}. Vendor retains all right,
+        title, and interest in and to the System and this site,
+        including without limitation all software used in this site and
+        Vendor retains all right, title, and interest to provide the use
+        of the System and all graphics, user interfaces, logos, and
+        trademarks reproduced through the System and the site. This
+        Agreement does not grant Customer any intellectual property
+        license or rights in or to the System or any of its components.
+        Customer recognizes that the System and its components are
+        protected by United States of America and International
+        copyright, trademark, service mark, patent, trade secret and
+        other intellectual or proprietary rights laws.
+
+    2.  [Questions regarding the IP]{.underline}. Any questions
+        regarding the IP rights to the System or any component or
+        content of this site should be addressed to the *ThruThink*®
+        email: <support@thruthink.com>.
+
+    3.  [Feedback]{.underline}. Vendor has not agreed to and does not
+        agree to treat as confidential any Feedback that the User,
+        Customer, Customer's Clients, or other Users provide to Vendor,
+        and nothing in this Agreement or in the Parties' dealings
+        arising out of or related to this Agreement will restrict
+        Vendor's right to use, profit from, disclose, publish, keep
+        secret, or otherwise exploit Feedback. Vendors use of Feedback
+        will be without compensating or crediting Customer or the
+        Customer's Client or other User in question.
+        ("[Feedback]{.underline}" refers to any recommendation of System
+        by the User or suggestion or idea for improving or otherwise
+        modifying any of Vendor's products or services.)
+
+7.   **[CONFIDENTIAL INFORMATION]{.underline}.** "[Confidential
+    Information]{.underline}" refers to the following items Vendor
+    discloses to Customer or the Customer becomes aware of while using
+    the System: (a) any document Vendor marks "Confidential"; (b) any
+    information Vendor orally designates as "Confidential" at the time
+    of disclosure, provided Vendor confirms such designation in writing
+    within 30 business days; (c) the design, software code, user
+    interface, architecture, methodology, features, functions, formulas,
+    calculations, schematics and methods of analysis of the System,
+    whether or not marked or designated confidential; (d) the
+    Documentation; and (f) any other nonpublic, sensitive information
+    disclosed by Vendor, whether or not marked or designated
+    "Confidential." Notwithstanding the foregoing, Confidential
+    Information does not include information that: (i) is in Customer's
+    possession at the time of disclosure; (ii) is independently
+    developed by Customer without use of or reference to Confidential
+    Information; (iii) becomes known publicly, before or after
+    disclosure, other than as a result of Customer's improper action or
+    inaction; or (iv) is approved for release in writing by Customer.
+
+    1.  [Nondisclosure]{.underline}*.* Customer shall not use
+        Confidential Information for any purpose other than its intended
+        purpose within the System (the "[Purpose]{.underline}"). If the
+        Customer learns of or becomes aware of any Confidential
+        Information, the Customer: (a) shall not disclose, copy or
+        distribute any Confidential Information in any manner; including
+        to any employee or contractor of Customer or to any other third
+        party without Vendor's prior written consent. Without limiting
+        the generality of the foregoing, Customer shall protect
+        Confidential Information with the same degree of care it uses to
+        protect its own confidential information of similar nature and
+        importance, but with no less than reasonable care. Customer
+        shall promptly notify Vendor of any misuse or misappropriation
+        of Confidential Information that comes to Customer's attention.
+        Notwithstanding the foregoing, Customer may disclose
+        Confidential Information as required by applicable law or by
+        proper legal or governmental authority. Customer shall give
+        Vendor prompt notice of any such legal or governmental demand
+        and reasonably cooperate with Vendor in any effort to seek a
+        protective order or otherwise to contest such required
+        disclosure, at Vendor's expense.
+
+    2.  [Injunction]{.underline}. Customer agrees that breach of this
+        Section 7 (*Confidential Information*) would cause Vendor
+        irreparable injury, for which monetary damages would not provide
+        adequate compensation, and that in addition to any other remedy,
+        Vendor will be entitled to injunctive relief against such
+        breach, threatened breach or interference, without proving
+        actual damage or posting a bond or other security.
+
+    3.  [Termination & Return]{.underline}. With respect to each item of
+        Confidential Information, even upon expiration of the
+        Subscription or termination of the Customers use of the System
+        by the Vendor, the obligations of Section 7.1 (*Nondisclosure*)
+        above shall continue, including but not limited to
+        noninterference and remedies for breach in perpetuity after the
+        termination of this Agreement. Upon termination of this
+        Agreement, Customer shall disclose to Vendor any Confidential
+        Information in Customers possession and certify, in writing, the
+        destruction thereof.
+
+    4.  [Retention of Rights]{.underline}. This Agreement does not
+        transfer any interest or ownership of the System or any
+        Confidential Information or grant a license thereto. Vendor will
+        retain all right, title, and interest in and to all Confidential
+        Information.
+
+8.  **[REPRESENTATIONS & WARRANTIES]{.underline}.**
+
+    1.  [From Vendor]{.underline}. Vendor represents and warrants that
+        it is the owner of the System and of each and every component,
+        or where the component is supplied by another vendor, is
+        believed to be the recipient of a valid license thereto,
+        including but not limited to the Confidential Information
+        described in Section 7 (*Confidential Information)*, and that it
+        has and will maintain the full power and authority to grant the
+        rights granted in this Agreement without the further consent of
+        any third party. Vendor's representations and warranties in the
+        preceding sentence do not apply to use of the System in
+        combination with hardware or software not provided by Vendor. In
+        the event of a breach of the warranty in this Section 8.1
+        (*Representations and Warranties from Vendor*), Vendor, at its
+        own expense, will promptly take one of the following
+        actions: (a) secure for Customer the right to continue using the
+        System; (b) replace or modify the System to make it
+        non-infringing; (c) terminate the infringing features of the
+        System and refund to Customer any prepaid Fees for use of the
+        System that depend on such features, in proportion to the
+        portion of the Term left after such termination; or (d)
+        terminate the use of the System. In conjunction with Customer's
+        right to terminate for breach where applicable, the preceding
+        sentence states Vendor's sole obligation and liability, and
+        Customer's sole remedy, for breach of the warranty in this
+        Section 8.1 (*Representations and Warranties from Vendor*) and
+        for potential or actual intellectual property infringement by
+        the System.
+
+    2.  [From Customer]{.underline}.
+
+        a.  *Re Customer Itself*. Customer represents and warrants
+            that: (i) it has the full right and authority to enter into,
+            execute, and perform its obligations under this Agreement
+            and that no pending or threatened claim or litigation known
+            to it would have a material adverse impact on its ability to
+            perform as required by this Agreement; (ii) it has
+            accurately identified itself and it has not provided any
+            inaccurate information about itself to or through the
+            System; (iii) it is a corporation, individual 18 years or
+            older or the sole proprietorship of an individual 18 years
+            or older except for Class Room Accounts, see Subscription
+            Accounts at Vendors website; and (iv) (for Classroom
+            Accounts that are under the supervision of an accredited
+            school (as defined in its general educational category), the
+            age requirement is 16 years or older, or (v) another entity
+            authorized to do business pursuant to applicable law.
+
+        b.  *Re Customer\'s Sub Users*. Customer represents and warrants
+            that Customer will allow Sub User access only after
+            purchasing the appropriate Subscription that includes a
+            Master Account that allows multiple people within the
+            account and to the best of its knowledge: (i) each
+            Customer's Sub Users will have the full right and authority
+            to enter into, execute, and perform its obligations as
+            required under this Agreement and the Sub User Agreement,
+            with no pending or threatened claim or litigation that would
+            have a material adverse impact on its ability so to
+            perform; (ii) Customer will insure that each of Customer's
+            Sub Users will sign up to use the System under the Customers
+            Master Account and will not provide any inaccurate
+            information about a Customer's Sub User or other User to or
+            through the System; (iii) each Customer's Sub User will be
+            an individual 18 years or older; and (iv) (for Classroom
+            Accounts that are under the supervision of an accredited
+            school (as defined in its general educational category).
+
+    3.  [Warranty Disclaimers]{.underline}. Except to the extent set
+        forth in the SLA and in Section 8.1 (*Representations &
+        Warranties form Vendor)* above, CUSTOMER ACCEPTS THE SYSTEM "AS
+        IS" AND AS AVAILABLE, WITH NO REPRESENTATION OR WARRANTY OF ANY
+        KIND, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION IMPLIED
+        WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR
+        PURPOSE, ACCURACY OR APPLICABILITY OF THE DOCUMETATION, OUTCOME
+        OF CUSTOMERS OR USERS BUSINESS OR DEAL, OR ANY IMPLIED WARRANTY
+        ARISING FROM STATUTE, COURSE OF DEALING, COURSE OF PERFORMANCE,
+        OR USAGE OF TRADE. WITHOUT LIMITING THE GENERALITY OF THE
+        FOREGOING: (a) VENDOR HAS NO OBLIGATION TO INDEMNIFY OR DEFEND
+        CUSTOMER OR USERS AGAINST CLAIMS RELATED TO INFRINGEMENT OF
+        INTELLECTUAL PROPERTY; (b) VENDOR DOES NOT REPRESENT OR WARRANT
+        THAT THE SYSTEM WILL PERFORM WITHOUT INTERRUPTION OR ERROR;
+        AND (c) VENDOR DOES NOT REPRESENT OR WARRANT THAT THE SYSTEM IS
+        SECURE FROM HACKING OR OTHER UNAUTHORIZED INTRUSION OR THAT
+        CUSTOMER DATA WILL REMAIN PRIVATE OR SECURE.
+
+    4.  [Forward Looking Projections]{.underline}. The System uses
+        Customer Data and presents calculations and resulting
+        information in a forward looking manner for up to a 20 year
+        period including but not limited to reports such as balance
+        sheets, income statements, cash flows and other financial
+        information (Forward Looking Projections). Forward Looking
+        Projections are based on the Customer Data as entered by the
+        User and are neither historical facts nor assurances of future
+        performance. There are inherent risks in any business venture
+        and the System only makes calculations using the Customer Data
+        and does not attempt to reflect the inherent uncertainties and
+        risks of the future. The Forward Looking Projections are
+        estimates and approximations and do not constitute accounting
+        services or advice. User accepts full responsibility for the
+        Forward Looking Projections and Vendor makes no representation,
+        warranties or guarantees about the outcome of Users business.
+
+    5.  [*ThruThink Evaluation™* and *ThruThink Deal
+        Score™*.]{.underline} The System incorporates a *ThruThink
+        Evaluation™* and *ThruThink Deal Score™*. The evaluation and
+        deal score involve proprietary formulas, algorithms and
+        concepts. They are based on the Customer Data and: (a)
+        incorporate the Forward Looking Projections described in Section
+        8.4 (*Forward Looking Projections*); (b) do not constitute
+        investment advice or opinions by the Vendor in any manner;
+        and (c) do not provide or make any representation, warranties or
+        guarantees about the outcome or suitability of Users business.
+
+    6.  [Calculation Errors and Glitches]{.underline}. The System has
+        thousands of potential User Inputs. While the Vendor has
+        performed extensive testing, there is an infinite amount of
+        combinations that could be made with the User Inputs and there
+        is a risk that there may be calculation errors or glitches
+        within the System. The User acknowledges and assumes this risk
+        by agreeing to this Agreement and as such accepts that the
+        Vendors liability for any calculation error or glitch is limited
+        by the provisions in Section 10.1 (*Dollar Cap*) below.
+
+    7.  [Third Party Web Sites; Third Party Services; No Endorsement
+        Implied]{.underline}. Vendor's site may contain links to other
+        web sites owned by third parties (Third Party Sites). The
+        Customer should understand that clicking on these sites will
+        take the Customer to the Third party Sites over which the Vendor
+        has no control or responsibility. The vendor is not responsible
+        for any activity or actions that result from the Customer
+        clicking on the link to the Third Party Site. In addition, the
+        Customer may also have the ability to log in to third party
+        services (Third Party Services) through the Vendors site to
+        Customer accounts provided by the third parties. The Vendor is
+        not responsible for any activity or events that happens in the
+        Third Party Sites or with the Third Party Services even if
+        Customer is logged in thru Vendors site. It is the Customer\'s
+        responsibility to review and comply with the Third Party\'s
+        Terms of Service and approve all activity and occurrences that
+        happens with the Third Party Site and Third Party Services.
+
+    8.  [Third Party Compensation]{.underline}. In most instances, the
+        Vendor is compensated by the third party for including a link to
+        or advertising for the Third Party Sites contained in the
+        Vendors website. Acceptance of compensation or including a third
+        party link on the Vendors site should not be construed as an
+        endorsement or approval by the Vendor of the Third Party Site or
+        its products or services.
+
+9.  **[INDEMNIFICATION]{.underline}.** Customer shall defend, indemnify,
+    and hold harmless Vendor and the Vendor Associates (as defined
+    below) against any "[Indemnified Claim]{.underline}," meaning any
+    claim, suit, or proceeding arising out of or related to User\'s
+    alleged or actual use of, misuse of, or failure to use the System,
+    including without limitation: (a) any claims by User, Customer,
+    Customer\'s Sub Users or other Users (b) any claims related to
+    Errors or Glitches in the System (Section 8.6-*Calculation Errors
+    and Glitches*) (c) claims related to unauthorized disclosure or
+    exposure of personally identifiable information or other private
+    information, including Customer Data; (d) claims related to
+    infringement or violation of a copyright, trademark, trade secret,
+    or privacy or confidentiality right by written material, images,
+    logos or other content uploaded to the System through Customer's
+    Subscription, including without limitation the Customer Data;
+    and (e) claims that use of the System through Customer's
+    Subscription, including by Customer's Sub Users or other Users,
+    harasses, defames, or defrauds a third party or violates the
+    CAN-Spam Act of 2003 or any other law or restriction on electronic
+    advertising. Indemnified Claims include, without limitation, claims
+    arising out of or related to Vendor's negligence. Customer's
+    obligations set forth in this Section 9 (*Indemnification*) include
+    retention and payment of attorneys and payment of court costs, as
+    well as settlement at Customer's expense and payment of judgments.
+    Vendor will have the right, not to be exercised unreasonably, to
+    reject any settlement or compromise that requires that it admit
+    wrongdoing or liability or subjects it to any ongoing affirmative
+    obligations. (The "[Vendor Associates]{.underline}" are Vendor's
+    officers, directors, members, shareholders, parents, subsidiaries,
+    agents, successors, and assigns.)
+
+10.  **[LIMITATION OF LIABILITY]{.underline}.**
+
+    1.  [Dollar Cap]{.underline}. *TO THE FULLEST EXTENT PERMITTED BY
+        LAW, IN NO EVENT WILL THE VENDOR'S LIABILITY ARISING OUT OF OR
+        RELATED TO THIS AGREEMENT EXCEED THE REMAINING AMOUNT OF THE
+        CURRENT SUBSCRIPTION FEE PAID BY THE CUSTOMER PRORATED BY THE
+        REMAINING AMOUNT OF THE SUBSCRIPTION PERIOD. IF THERE IS NO
+        REMAINING SUBSCRIPTION PERIOD OR IN THE CASE OF THE QUICK DEAL,
+        THE DOLLAR CAP IS ZERO*.
+
+    2.  [Exclusion of Consequential Damages]{.underline}. *IN NO EVENT
+        WILL VENDOR BE LIABLE TO CUSTOMER FOR ANY CONSEQUENTIAL,
+        INDIRECT, SPECIAL, INCIDENTAL, OR PUNITIVE DAMAGES ARISING OUT
+        OF THE USE OF THE SYSTEM OR RELATED TO THIS AGREEMENT*.
+
+    3.  [Clarifications & Disclaimers]{.underline}. *THE LIABILITIES
+        LIMITED BY THIS SECTION* 10 *(Limitations of Liability)
+        APPLY: (a) TO LIABILITY FOR VENDORS NEGLIGENCE; (b) REGARDLESS
+        OF THE FORM OF ACTION, WHETHER IN CONTRACT, WARRANTY, TORT,
+        STRICT PRODUCT LIABILITY, OR OTHERWISE; (c) EVEN IF VENDOR IS
+        ADVISED IN ADVANCE OF THE POSSIBILITY OF THE DAMAGES IN QUESTION
+        AND EVEN IF SUCH DAMAGES WERE FORESEEABLE; AND (d) EVEN IF
+        CUSTOMER'S REMEDIES FAIL OF THEIR ESSENTIAL PURPOSE.* If
+        applicable law limits the application of the provisions of this
+        Section 10 (*Limitations of Liability*), Vendor's liability will
+        be limited to the maximum extent permissible. For the avoidance
+        of doubt, Vendor's liability limits and other rights set forth
+        in this Section 10 (*Limitations of Liability*) apply likewise
+        to Vendor's affiliates, licensors, suppliers, advertisers,
+        agents, sponsors, directors, officers, members, shareholders,
+        employees, consultants, and other representatives.
+
+11.  **[TERM and TERMINATION.]{.underline}**
+
+    1.  [Term]{.underline}. The term of this Agreement (the
+        "[Term]{.underline}") shall commence on the Effective Date and
+        continue for the period set forth in the Subscription.
+        Thereafter, the Term will renew for successive periods, unless
+        either party refuses such renewal for any reason by written
+        notice within 30 or more days before the renewal date or unless
+        either party terminates this Agreement for cause as set forth in
+        this Agreement.
+
+    2.  [Termination for Cause]{.underline}. Either party may terminate
+        this Agreement for the other's material breach by written
+        notice, effective in 10 days unless the other party first cures
+        such breach. Without limiting Vendor's other rights and
+        remedies, Vendor may suspend or terminate a Customer's, Sub
+        Users or other User's access to the System at any time, without
+        advanced notice, if the Customer has any past due invoices from
+        Vendor or if Vendor, in its sole discretion, reasonably
+        concludes such Customer or Customer's Sub User or other User has
+        conducted itself in a way that is not consistent with the
+        requirements of this Agreement or the AUP or in a way that
+        subjects Vendor to potential liability.
+
+    3.  [Termination for Convenience]{.underline}. The Vendor may
+        terminate this Agreement for any reason or no reason at its
+        convenience. If this Agreement is terminated by the Vendor as
+        set forth in this Section 11.3 (*Termination for
+        Convenience*[)]{.underline}, the Vendor will refund to the
+        Customer, the amount of Subscription less the prorated portion
+        for the period of the Term used.
+
+    4.  [Effects of Termination]{.underline}. Upon termination of this
+        Agreement, Customer access to the System will be terminated. In
+        the event access is not terminated, Customer shall cease all use
+        of the System. The following provisions will survive termination
+        or expiration of this Agreement: (a) any obligation of Customer
+        to pay Fees incurred before termination; (b) Sections 6 (*IP &
+        Feedback*), 7 (*Confidential Information*), 8.3 (*Warranty
+        Disclaimers*), 9 (*Indemnification*), and 10 (*Limitation of
+        Liability*); and (c) any other provision of this Agreement that
+        must survive to fulfill its essential purpose. Upon Termination
+        of this Agreement, Customer Data will be subject to Data
+        Deletion under Section 4.6 (*Data Deletion*).
+
+12. **[MISCELLANEOUS]{.underline}.**
+
+    1.  [Independent Relationship]{.underline}. The Parties are
+        independent of each other and will so represent themselves in
+        all regards. Neither party is the agent of the other and cannot
+        make commitments on the other's behalf. The Parties agree that
+        no Vendor employee or contractor will be an employee of Customer
+        without written approval by both Parties.
+
+    2.  [Notices]{.underline}. Vendor may send notices pursuant to this
+        Agreement to Customer's email contact points provided by
+        Customer, and such notices will be deemed received 24 hours
+        after they are sent. Customer may send notices pursuant to this
+        Agreement to the email <support@thruthink.com>, and such notices
+        will be deemed received 72 hours after they are sent.
+
+    3.  [Force Majeure]{.underline}. No delay, failure, or default,
+        other than a failure to pay Fees when due, will constitute a
+        breach of this Agreement to the extent caused by acts of war,
+        terrorism, hurricanes, earthquakes, other acts of God or of
+        nature, strikes or other labor disputes, riots or other acts of
+        civil disorder, embargoes, or other causes beyond the performing
+        party's reasonable control.
+
+    4.  [Assignment & Successors]{.underline}. Customer may not assign
+        this Agreement or any of its rights or obligations hereunder
+        without Vendor's express written consent. Except to the extent
+        forbidden in this Section 12.4 (*Assignment & Successors*), this
+        Agreement will be binding upon and inure to the benefit of the
+        Parties' respective successors and assigns.
+
+    5.  [Severability]{.underline}. To the extent permitted by
+        applicable law, the Parties hereby waive any provision of law
+        that would render any clause of this Agreement invalid or
+        otherwise unenforceable in any respect. In the event that a
+        provision of this Agreement is held to be invalid or otherwise
+        unenforceable, such provision will be interpreted to fulfill its
+        intended purpose to the maximum extent permitted by applicable
+        law, and the remaining provisions of this Agreement will
+        continue in full force and effect.
+
+    6.  [No Waiver]{.underline}. Neither party will be deemed to have
+        waived any of its rights under this Agreement by lapse of time
+        or by any statement or representation other than by an
+        authorized representative in an explicit written waiver. No
+        waiver of a breach of this Agreement will constitute a waiver of
+        any other breach of this Agreement.
+
+    7.  [Dispute Resolution.]{.underline} Before filing a claim against
+        the Vendor, the Customer agrees to contact the Vendor at
+        <support@thruthink.com> and attempt to resolve any issues
+        informally first through direct discussions with the Vendor. If
+        the Customer and Vendor cannot resolve a dispute or claim
+        arising out of or related to the use of the System or this
+        Agreement, all formal disputes must be resolved through
+        mediation or arbitration as described in Section 12.8
+        (*Mediation and* *Arbitration*) below.
+
+    8.  [Mediation and Arbitration]{.underline}. The Customer agrees to
+        resolve any issues or claims with the Vendor, the use of the
+        System or this Agreement that cannot be informally resolved,
+        through mediation and if it still cannot be resolved, through
+        final and binding arbitration and the Customer expressly waives
+        trial by jury, except as set forth below. The Parties agree to
+        first try and settle the dispute or claim by mediation
+        administered by the American Arbitration Association under its
+        Commercial Mediation Procedures, with the Parties sharing
+        equally the costs of mediation, before resorting to arbitration.
+        The Parties further agree that any unresolved controversy or
+        claim arising out of use of the System or relating to this
+        Agreement, or breach thereof, shall be settled by arbitration
+        administered by the American Arbitration Association in
+        accordance with its Commercial Arbitration Rules and judgment on
+        the award rendered by the arbitrator(s) may be entered in any
+        court having jurisdiction thereof. Any arbitration must be
+        commenced by filing a demand for arbitration within 90 days
+        after the date the Customer knows of or reasonably should have
+        known of the cause of the claim or dispute.
+
+The arbitrator(s) must follow the provisions and intent of this
+Agreement and shall have substantial experience in intellectual
+property, business analysis and cloud based software service. The place
+of arbitration shall be Fresno, California. The arbitration shall be
+conducted in English and governed by the laws of the State of
+California. Hearings will take place pursuant to the standard procedures
+of the Commercial Arbitration Rules that contemplate in person hearings.
+Time is of the essence for any arbitration under this agreement and
+arbitration hearings shall take place within 90 days of filing a demand
+and awards rendered within 120 days. Arbitrator(s) shall agree to these
+limits prior to accepting appointment. Each party shall bear its own
+costs and expenses and an equal share of the arbitrators\' and
+administrative fees of arbitration. The award of the arbitrators shall
+be accompanied by a reasoned opinion. Except as may be required by law,
+neither a party nor an arbitrator may disclose the existence, content,
+or results of any arbitration hereunder without the prior written
+consent of both Parties.
+
+If for any reason this Section 12.8 (*Mediation and Arbitration*) does
+not or cannot apply to a dispute or claim, any judicial proceeding must
+be brought in accordance to Section 12.9 (*Choice of Law &
+Jurisdiction*).
+
+9.  [Choice of Law & Jurisdiction]{.underline}. This Agreement will be
+    governed solely by the internal laws of the State of California,
+    United States of America, without reference to: (a) any conflicts of
+    law principle that would apply the substantive laws of another
+    jurisdiction to the Parties' rights or duties; (b) the 1980 United
+    Nations Convention on Contracts for the International Sale of Goods;
+    or (c) other international laws. The Parties consent to the personal
+    and exclusive jurisdiction of the federal and state courts of
+    Fresno, California, United States of America.
+
+10. [Conflicts]{.underline}. In the event of any conflict between this
+    Agreement and any Vendor policy posted online, including without
+    limitation the Sub Users Agreement, Privacy Policy, the Acceptable
+    Use Policy or the Service Level Agreement, the terms of this
+    Agreement will govern.
+
+11. [Construction]{.underline}. The Parties agree that the terms of this
+    Agreement result from negotiations between them. This Agreement will
+    not be construed in favor of or against either party by reason of
+    authorship.
+
+12. [Technology Export]{.underline}. Customer shall not: (a) access or
+    use the System or permit any third party to access or use the System
+    in violation of any U.S. law or regulation; or (b) export any
+    software provided by Vendor or otherwise remove it from the Vendors
+    server. Without limiting the generality of the foregoing, Customer
+    shall not permit any third party to access or use the System except
+    in compliance with this Agreement and all applicable U.S. laws and
+    regulations and maintain compliance with all U. S. laws and
+    regulations regarding the export or use of software or sale of
+    subscriptions for software in a country subject to a United States
+    embargo or sanction.
+
+13. [Entire Agreement]{.underline}. This Agreement sets forth the entire
+    agreement of the Parties and supersedes all prior or contemporaneous
+    writings, negotiations, and discussions with respect to its subject
+    matter. Neither party has relied upon any such prior or
+    contemporaneous communications.
+
+14. [Amendment]{.underline}. Vendor may amend this Agreement from time
+    to time by posting an amended version at its Website (Amendment
+    Date). Such amendment will be deemed accepted upon the Users
+    continued use of the System after the Amendment Date unless Customer
+    first gives Vendor written notice of rejection of the amendment. In
+    the event of such rejection, the Customer may terminate this
+    Agreement pursuant to Section 11 (*Term and Termination*). User's
+    continued use of the System following the Amendment Date of an
+    amendment, will confirm Customer's consent thereto. This Agreement
+    may not be amended in any other way except through a written
+    agreement by authorized representatives of each party.
+    Notwithstanding the foregoing provisions of this Section 12.14
+    (*Amendment*), Vendor may revise the Sub User Agreement, Privacy
+    Policy, the Acceptable Use Policy and the Service Level Agreement at
+    any time by posting a new version of either at the Website, and such
+    new version will become effective on the date it is posted.
