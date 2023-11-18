@@ -1,0 +1,7 @@
+# Expense Projections
+## Category: Expenses
+There are four ways of entering future Expenses:
+A Percent of Sales for Cost of Goods Sold (COGS) and General Expenses for each of years 1-3 and a percent for all years after Year 3 can be entered on the Step 3 Sales and EBITDA Input page. This is a quick and less time consuming method of entering future Sales and Expenses and is done while entering Base Sales and or Base EBITDA Inputs in Step 3.
+A % of Sales for COGS and General Expenses for each of the Horizon Years can also be entered on the Cash Flow Control page in Step 3. These entries will override any conflicting entries made on the Sales and EBITDA page and can be used to adjust the Sales and Expense projections. This is done while reviewing the Cash Flow results on the Cash Flow Control page and is a good method to adjust Sales and Expenses while being able to see the resulting financial impact.
+For more detailed Sales and Expense inputs the Individual Scheduled Item pages may be used to input individual Sales and Expense projections in detail. This method is useful when specific detailed expense projections are necessary by month during the year. Units and $/Unit inputs may be made on this page for Inventory use, expensed Cost of Goods Sold type of expenses and capitalized Cost of Goods Sold type expenses.
+Individual Overhead and General Expenses that are not considered Cost of Goods Sold type of expenses can be entered with the Operating Expense Adjustment page.

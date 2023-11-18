@@ -1,0 +1,5 @@
+# Amortization
+## Category: Expenses
+Amortization is spreading out the cost of a non tangible asset over a period of years (Life Period) instead of expensing it all in one year. In the *ThruThink* analysis there are two available categories for amortized assets. The first will pertain to Capitalized Transaction Expenses and Goodwill which will both use the same Life Period. The second one is a for Amortized Assets that are identified on the Capital Expenditures Input page. Separate Life Periods in years may be used for each of the two categories. Both will be capitalized to the Amortized Asset category on the Balance Sheet. Each year of the Life Period, an Amortization Expense will calculated using the same Life Period for both Accrual expenses and Cash Basis expenses. The Users should consult with their Tax Advisors for proper Life Period to use.
+Unless changed by the User, a default Life Period of 15 Years will be used for both Asset Categories.
+Amortization Terms only apply to the Transaction Sheet Assets and new Capital Expenditures. The Existing Company Asset Amortization expense is entered by the User in whole numbers and are not calculated.

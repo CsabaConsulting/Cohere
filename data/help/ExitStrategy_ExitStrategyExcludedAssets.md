@@ -1,0 +1,9 @@
+# Exit Strategy-Excluded Assets
+## Category: Exit Strategy
+The value of a company represents all the assets of the Company that are used and necessary for the production of the income of the Company. This normally includes all of the Equipment & Machinery of the business and inventory. Accounts Receivable may or may not be included in the value. Assets that are not necessarily related to the operations of the Company are often not valued as part of the business but separately, in addition to the business value.
+Input "Yes or No" on the Exit Strategy page to include or not to include those asset categories listed. If "No" is chosen, those assets will not be considered as part of the value indicated above and the balance sheet value for those assets will be added to the sale or liquidation value in order to then represent the total value of the Company.
+Note: If assets such as real estate are excluded from the sale and they are in fact used by the business, the EBITDA used for the Value multiple should reflect a reasonable operating expense for the fair value of the use of the excluded assets.
+### Existing Company Balance Sheet Adjustments
+The Adjustment Inputs on the Existing Company Balance Sheet may be used to make adjustments or reorganizations of the Balance Sheet Items. This Input can be used to add amounts to adjust the Balance Sheet to reflect a future date, such as the effective date for the Purchase of the Target Company.
+The post adjustment balances will be the only ones used in the *ThruThink* analysis. The adjustments are only intended to offer a paper trail as to how certain balance sheet items were adjusted to arrive at the balance used for the Effective Date.
+This process can also  be useful when the user is demonstrating certain changes to Balance Sheet Items prior to the Effective Date such as the effect of a debt restructure upon the close of the Transaction.

@@ -1,0 +1,5 @@
+# Equity Notes as a source for Remaining Cash Requirement
+## Category: Liabilities
+When setting up the Equity Note, the User may choose to Input a % Origination Points Fee for the Note. Because the % Points Fee becomes a Cash Requirement in the Closing Escrow, when a % Points Fee is used for the Equity Note, changing the amount of the Equity Note will cause the Cash Requirement to close the escrow to go up or down based on the amount of the % Points Fee change.
+When using the Equity Note to provide the final amount of the Cash Requirement, as the Equity Note increases the Cash Requirement will also increase due to the % Points Fee, causing a never ending (although increasingly smaller) chase to provide the remaining Cash Requirement.
+Either use the direct Cash Contribution to satisfy the final Cash Requirement or make several rounds of increasing the Equity Note amount to satisfy the Remaining Cash Requirement and again increasing the Equity Note amount for the resulting Remaining Cash Requirement until the Remaining Cash Requirement gets small enough to put in a direct Cash Contribution to finish the process.

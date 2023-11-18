@@ -1,0 +1,6 @@
+# Individually Scheduled Section B Inventory Year 1 Input
+## Category: Assets
+By entering inventory amounts in this page, the form will setup and record the inventory amounts as beginning Individually Scheduled Inventory for the end of the period just prior to Year 1 (the Effective Date) and by entering the monthly information, it will indicate when the beginning inventory is to be used during Year 1.
+This information should be listed at cost.
+Depending on the selection made, the inventory amounts entered for Year 1 Section B Inventory, will feed to either  the Transaction Sheet or the Existing Company financial information (the "Show On" selection) as beginning inventory as of the Effective Date.
+For every entry for the Year 1 Schedule B Inventory, the User must make an entry for the Sale Value of the Inventory used. This is the value for which the Inventory being taken out of inventory and used on this page will be sold. Each time an entry is made on this page, the User will be prompted for the Sale Value. If there is an existing Sale Value for this item, it will be shown on the prompt and the User may change or accept that amount. If there will be no Sale Value for the Inventory used, a '0' must be entered for the Sale Value. Each individual input for Sale Value on this page will flow to the Individually Scheduled Section D Income.

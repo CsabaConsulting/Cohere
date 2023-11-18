@@ -1,0 +1,3 @@
+# In Case of Error - Send Data File to ThruThink
+## Category: Errors, Warnings and Cautions
+If the User encounters an Error for which there is no Error listed in the Error Summary, the User may send the Users data file to *ThruThink* for evaluation. In the Current Project tab on the Navigation Bar, select "Send Data File to ThruThink". This will automatically send by e-mail the Users Data for the opened Project to *ThruThink* Customer Support. Customer Support will evaluate what is causing the Error and provide feedback to the User. By sending the Data File to ThruThink, the User provides ThruThink permission to evaluate Users Data for the purposes of solving the Error. Such use by *ThruThink* Customer Support is covered by the Terms and Conditions of the application.

@@ -1,0 +1,8 @@
+# Equity Groups
+## Category: Equity
+There can be three different Equity members or groups, each with a different Equity ownership %. Each Equity member or Group is treated  in accordance with their ownership percentage.
+An Equity member may also be the Seller and in that capacity receive separate payments from Seller Notes which will be separate from their Equity Interest.
+An Equity member may also loan the Company money as an Equity Note and receive separate payments from the Equity Note which will be separate from their Equity Interest.
+An Equity Member may receive a different percentage of the Gain from the Company Sale. This is intended to provide an incentive to specific equity holders (ex.-management or Investors) that pays off on the Sale of the Company. There is no tax attributes for this included in the *ThruThink* analysis as it is after the Company has been sold.
+In the Return to Equity calculations, for the purpose of illustrating the total benefit of the "Deal" to each Equity Member, the Equity Members share of Seller Note payments and Equity Note Payments are also included in the calculations.
+When a Partial Interest purchase is being made and the User selects "Yes" in Step 8 for "Does Contributed Cash Stay in the Company", in order to keep the Equity Groups balanced, the effect of this will be that the cash is paid out to the Selling Equity Group and the Selling Equity Group and the Purchasing Equity Group re-contribute an amount of cash in proportion to their separate Equity Ownership shares. This feature will require additional cash to be contributed by the purchasing Equity Groups.

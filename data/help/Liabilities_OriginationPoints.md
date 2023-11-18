@@ -1,0 +1,6 @@
+# Origination Points
+## Category: Liabilities
+Origination Points as used in the *ThruThink* analysis are fees charged by the lender for multi year loans at the time of origination of the loan. Fees are often expressed as Points and one Point equals 1% of the loan. If there is a straight dollar amount for a fee, include this fee as an a Transaction Expense and Due Diligence Fees under the Step 7 Inputs.
+In the *ThruThink* analysis, Origination Points are amortized and added to the Amortized Assets on the Balance Sheet along with the Transaction and Due Diligence Expenses and amortized over the Years for Goodwill and Transaction Expenses in the Tax Rate and Depreciation Input page. This means that Origination Points are not expensed in the year paid, but expensed over the life of the Amortized Asset as Amortization Expense.
+If this is a fee to be charged annually, it should not be included as Origination Points, but included as an Operating expense for Year 1 and thereafter if applicable.
+Origination Points are only an option for the individual Transaction Sheet Loans. The Individually Scheduled Debt Items do not have the option to specify Origination Points. An AJE may be made to Amortized Assets for this purpose however.

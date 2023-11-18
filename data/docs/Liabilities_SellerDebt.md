@@ -1,0 +1,13 @@
+# Seller Debt
+## Category: Liabilities
+The Seller Debt is a provision for the Seller to take back a portion of the purchase price of the Company as a Note Payable. This is a commonly used option for financing a portion of a Company Acquisition. There are a number of provisions involving the Seller Note.
+First there is a Base Note broken down into the (1) Current Pay Portion and (2) Non Current Pay Portion and in order to provide the Seller incentive to take back a Note, the (3) Performance Earn Out Note is available to the Seller.
+The Current Pay portion of the Seller Base Note will calculate automatic payments (either amortized or interest only) as indicated. With Non Current Pay, there will be no automatic interest or principal payments calculated. The Non Current Pay Note will accrue interest at the selected rate and the Principal and Interest can be paid off with manual excess cash payments in the Cash Flow Control page.
+The purpose of separating the Seller Note into Current Pay and Non Current Pay is to satisfy possible Senior or Sub Debt lender conditions that the Seller not be paid ahead of the Senior or Sub Debt. If this applies, the Seller Debt can be made Non Current Pay and paid from the Cash Flow Control page when extra cash and lender criteria permit.
+### Excess Payments from Cash Flow Control
+Excess Cash Pay down will be 1st applied to outstanding interest on the Non-Current Pay Seller Note, then principal on the Non Current Pay Seller Note, then to the outstanding interest of the Performance Earn Out Note, then, if the Performance Earn Out note is not amortized, the principal of the Performance Earn Out Note, then to interest of the Current Pay Seller Note, then to the principal of the Current Pay Seller Note.  A negative number can be inserted to signify an increase in the note which will also be an increase to cash. An increase in the note will be applied to the Non Current Pay Seller Note.
+### Seller Notes-Adjusting Journal Entry Process
+#### AJE to Interest
+AJE entries to Seller Interest Expense will be applied to the Current Pay Seller Note Interest. AJE entries to the Seller Debt Accrued Interest be applied first to the Non Current Pay Seller Note accrued interest and then to the Current Pay Accrued Interest. An AJE can not be made to the Accrued Interest for the Earn Out Seller Note.
+#### AJE to Principal
+Because the Non Current Pay Note does not have automatic payments, AJE entries to the Seller Debt Principal amount will be 1st applied to Non Current Pay Seller Note. If there is no balance on the Non Current Pay Seller Note the AJE will be applied to the Current Pay Seller Note, then to the Earn Out Seller Note.

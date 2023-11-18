@@ -1,0 +1,5 @@
+# Overhead Operating Expenses
+## Category: Expenses
+In the *ThruThink* analysis, Overhead Operating Expenses can be entered using three methods. They may be entered as a percentage of Sales in the Step 3 Inputs or with an Override input on the Cash Flow Control page. Overhead Expenses may also be entered by individual item amounts with the Overhead Expense Adjustment Input page.
+These are expenses such as general operating expenses, non specific marketing and sales expenses and general and administrative overhead that do not necessarily vary directly with the amount of product sold.
+These type of expenses may however increase as product is sold on a stair step like manner. In other words, the expenses will stay level with a certain range of sales and then increase to a new level. It will be more difficult to express this type of expense with a percentage of Sales if sales change significantly from year to year. If this is an issue, the Cash Flow Control will allow the User to Input summary whole numbers for each individual year.

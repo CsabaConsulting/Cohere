@@ -1,0 +1,8 @@
+# Tax Basis
+## Category: Taxes
+Taxes may be calculated on either the Accrual or Cash Basis by a User selection on the Tax Rate form.
+These tax calculations are projections and by nature are approximate with no representation as to adhearing to GAAP or other specific accounting procedure or tax code.
+For the Accrual Basis, taxable net income is calculated using income and expenses when they are incurred regardless of whether the income has been received or expense has been paid in that same period.
+For the Cash Basis, taxable income is calculated using income and expense received or paid during the applicable term.
+Regarding inventory, cash paid to create inventory (see Inventory - Future Terms Set-up) or User capitalized expenses (see Info Browser - Individually Scheduled Income/Expense, Capitalized Expenses) is counted as an Inventory Asset and not counted as an Expense in both the ThruThink Accrual or Cash Basis method of accounting (see Info Browser - Tax Rates). Therefore when the User chooses the ThruThink Cash Basis for calculation of income taxes, cash paid for inventory will not be counted as an expense for income tax purposes.
+If the User selects Cash Basis to calculate income taxes, the Income Statement will still be on an accrual basis with accrual based taxes as an expense, but the cash flow will reflect the Cash Basis tax payments. Any difference between the Accrual Basis taxes and the Cash Basis taxes will be shown on the Balance Sheet as a Deferred Liability when Cash Basis taxes are less than Accrual Basis taxes or as a negative Deferred Liability when Cash Basis taxes are higher than Accrual Basis taxes.

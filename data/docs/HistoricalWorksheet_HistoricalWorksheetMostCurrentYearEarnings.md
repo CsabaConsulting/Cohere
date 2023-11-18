@@ -1,0 +1,3 @@
+# Historical Worksheet - Most Current Year Earnings
+## Category: Historical Worksheet
+On the Historical Worksheet, the Most Current Earnings section is meant for the current year or the most recent partial year. For the Year Input, enter the period represented such as YTD 7/31/xx partial year. Enter the number of months that the 'Most Current Year Earnings' column represents. If the amounts represents a full year, input 12. For a partial year, input the # of months the partial year represents. The worksheet will convert the partial year to a 12 month basis by dividing the amount by the partial months and multiplying by 12.

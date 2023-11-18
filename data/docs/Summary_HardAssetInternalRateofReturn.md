@@ -1,0 +1,5 @@
+# Hard Asset Internal Rate of Return
+## Category: Summary
+The Hard Asset Liquidation IRR is an Internal Rate of Return calculation of the investment in the Company with the return being the annual Company Net Income as if paid out each year and at the Year indicated, the net of the Balance Sheet assets at Book Value without the non cash assets of Goodwill and Amortization of Acquisition Costs after subtracting an amount for all retained earnings (they were assumed to be previously paid out) and all of the Company's liabilities (Hard Asset Value).
+This measures the return from the actual operating performance of the Company without adding any benefit from a Gain on Sale. By not including a Market Value Gain on Sale this concentrates the performance analysis on strictly the  operating profitability of the Company and not the future value of an Exit Sale. If the operating performance of the Company is acceptable, the Market Value Gain will follow accordingly.
+When the Initial Equity is zero or negative, the IRR result will be zero.

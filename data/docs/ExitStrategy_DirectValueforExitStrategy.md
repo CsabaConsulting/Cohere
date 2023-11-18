@@ -1,0 +1,3 @@
+# Direct Value for Exit Strategy
+## Category: Exit Strategy
+There are two ways to establish an Exit Value for the Company; EBITDA Multiple and/or Direct Value. A Direct Value for a Company is simply a number entered by the User that represents the value of the Company or the assets being purchased. This can be used for a Company that has a large amount of hard assets that have a value not fully represented by the operating earnings of the Company. This is most common with real estate assets, note receivables, intellectual property or patents or simply a future value not yet realized. It can be used as an addition or in combination with the EBITDA Multiple Exit Value.

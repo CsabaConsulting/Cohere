@@ -1,0 +1,6 @@
+# Capitalized Expenses
+## Category: Expenses
+Direct expenses in one period for items sold in another period can be removed from expense in the initial period the expense was created and put back in expenses in the period the item is actually sold. By removing the item from expense, the expenses are put into Inventory and considered an asset until removed from inventory and "expensed" or put back into expenses in the form of Cost of Goods Sold (COGS) to match the product or items being sold in a subsequent period.
+The removal of the expense and placing it into inventory is called "Capitalized Expenses".
+Expenses that are capitalized are usually the direct expenses of the item sold such as labor, material and other expenses that are directly tied to and fluctuate with the amount or number of items purchased or manufactured. Sales expense, time of sale packaging, freight to the customer and overhead items that do not directly fluctuate with the amount or number of items purchased or manufactured are generally not capitalized and are left in expenses.
+The purpose of this process is to match income against the proper expense associated with that income in the period that the income occurs.

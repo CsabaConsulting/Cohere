@@ -1,0 +1,3 @@
+# Debt Input-Automatically Paid
+## Category: Liabilities
+Automatically paid means that the payments are paid automatically in accordance with the debt terms Input. A "Yes" selection will cause payments to be automatically paid. A "No" selection will mean that the interest will be accrued, but the cash payments must be manually entered in the Cash Flow Control Input Sheet. This allows the User to provide payment on the Note in accordance with projected available cash in whichever year and amount desired by the User. Manual payments will be first applied to accumulated interest and then to principal.

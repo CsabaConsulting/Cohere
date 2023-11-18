@@ -1,0 +1,6 @@
+# Historical Worksheet - Input to Cash Flow Control
+## Category: Historical Worksheet
+On the Historical Worksheet, the User may use the projections on the Historical Worksheet for the Cash Flow Control page by selecting the button, 'Input to Cash Flow Control', at the lower right portion of the Historical Worksheet. This will update the Cash Flow Control page with the sales and expense projections from the Historical Worksheet. If the button is not used, the User will need to proceed to either the Cash Flow Control page or Step 3, the Sales/EBITDA Input page to make alternate inputs.
+When the Input to Cash Flow Control button is used, the updates to the Cash Flow Control page are referred to as Worksheet Adjustments and are made in order that the Cash Flow Control page will match the Worksheet projections.
+If the Input to Cash Flow Control button has been used, the Worksheet Adjustments may also be removed by selecting the Remove Option found in the Input to Cash Flow Control button.
+After updating the Cash Flow Control page with the Worksheet Adjustments, if inputs from another source occur, the User should remove the old Worksheet Adjustments and repeat the process to re-enter updated Worksheet Adjustments.

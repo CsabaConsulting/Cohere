@@ -1,0 +1,3 @@
+# Historical Worksheet - Category Name
+## Category: Historical Worksheet
+On the Historical Worksheet, the User may identify each item with a separate identifying category such as a company or item type. This could be used to identify the items as to the Target Company or the Existing Company or two companies that will be combined in the projections or two types of items. Enter a "1" "2" for a separate identifier. This is an optional input whose only purpose is to breakout the categories separately in the totals on the Historical Worksheet. If nothing is entered for the Category number, then the Totals will simply not be split out by individual Category.

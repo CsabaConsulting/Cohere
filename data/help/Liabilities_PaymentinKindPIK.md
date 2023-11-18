@@ -1,0 +1,5 @@
+# Payment in Kind (PIK)
+## Category: Liabilities
+In the *ThruThink*, Payment in Kind (PIK) is an extra annual interest fee charged by a Subordinate Debt lender that is paid at the end of a pre determined period (Payment Beginning Year). It is considered as additional interest, accrued, but unpaid until the Payment Beginning Year. It is in addition to the regular stated interest rate for the loan and, as interest, is the percent indicated (PIK Interest Rate) applied to each years beginning balance of the loan for each year it is in effect (from the initial period of the loan until the Payment Beginning Year).
+The PIK payment can be paid in a lump sum or in annual installments (# of Payments) that begin in the Payment Beg Year and continue annually for the # of years indicated for the # of Payments.
+The PIK Interest will be an accrued interest expense while accruing, creating an accrued liability and when paid, a reduction of cash, a reduction of the liability and for cash basis taxes will be a cash basis expense in the date it is paid. For accrual basis tax, it is an accrued expense in the year accrued.

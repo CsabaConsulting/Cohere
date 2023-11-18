@@ -1,0 +1,8 @@
+# Individually Scheduled Section C Expenses (two parts)
+## Category: Expenses
+### Part 1 - The Individually Scheduled Section C Expense Input form
+This form will create Individually Scheduled Expense Items and will indicate when it is to be expensed during the year. This should be Cost of Goods Sold type of expenses incurred in the current year.
+For every entry made in this form, a Pop Up will appear that will allow the User to capitalize a portion of or all of the expense entered to the following year. The capitalized expense will become inventory the  current year until the period indicated to be expenses in the next year. The Pop Up page will give the User the opportunity to designate a Month and Sale Value in the next year that the Capitalized Inventory will be used and the value for which it will be sold. Each time an entry is made on this form, the User will be prompted with a new Pop Up page to capitalize all, none or a portion of the item and next years' Month and Sale Value of the item. If there is an existing capitalized amount for this item, it will be shown on the prompt and the User may change or accept that amount. If there will be no capitalized amount, a '0' must be entered for the capitalized amount. Each individual capitalized input will flow to the Individually Scheduled Section C Capitalized Expense page
+The un-capitalized portion of these expenses will be entered as expenses under Cost of Goods Sold.
+### Part 2 - The Individually Scheduled Section C Capitalized Expense Input form
+The capitalized portions of these expenses can be seen the Individually Scheduled Section C Capitalized Expense page where edits of the inputs may be made by the User.

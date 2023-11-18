@@ -1,0 +1,20 @@
+# Subordinated Debt
+## Category: Liabilities
+Subordinated Debt (Sub Debt) is a type of Secondary Debt that is subordinate to Senior secured debt and may be subordinate to Other Debt depending on the terms of the Sub Debt. The collateral for the Sub Debt is the value of the Company usually prior to any payment of Seller Debt and Equity Debt and prior to the Equity holders. There is more risk associated with Sub Debt and accordingly the Terms of the Sub Debt are usually more complicated.
+The *ThruThink* analysis has provisions for Payment in Kind Interest and Warrants which provide the Sub Debt Lender the opportunity to be compensated for the higher risk.
+### Cash Flow Control Payments
+Additional payments to Subordinated Debt may be made on the Cash Flow Control page. These payments are in addition to any regularly scheduled payments on the Sub Debt as inputted by the User when this debt was setup. This provision is intended to manage cash by applying extra cash flow to pay down debt or if applicable drawing new debt to supplement cash.
+A positive number is entered for payments. Payments on the Cash Flow Control page will be 1st applied to the Transaction Sheet Sub Debt outstanding interest then principal then PIK Interest until it is paid off and then allocated to the Specifically Scheduled Sub Debt items outstanding interest then principal then PIK Interest in the percentage of their outstanding balances.
+Enter a negative number for a draw on the Loan. Draws will be made only to the Transaction Sheet Sub Debt. If a draw or AJE is made for a period after the loan term is expired and the original loan has been paid off, the amount of the Cash Flow Control payment or AJE will create a loan balance until adjusted again with either a Cash Flow Control adjustment or another AJE. Interest will be paid on the balance annually until paid off with either another Cash Flow Control adjustment or AJE.
+Additional Payments will be applied first to Sub Debt regular interest, then to Sub Debt principal then to Sub Debt PIK Interest. Additional Payments to the Sub Debt will not reduce Warrants.
+### Transaction Sheet Subordinated Debt Repayment
+The repayment for the Transaction Sheet Sub Debt can be interest only with annual interest payments made during the loan and the entire principal amount due in the last year of the loan or amortize the loan with level annual principal and interest payments through the life of the loan so as the loan is paid off with the last annual payment in the last year of the loan.
+If Interest Only , "Yes" is selected on the Transaction Sheet Sub Debt Input page, the loan will be interest only, if "No" is selected the loan will be amortized.
+If other repayment terms are required, the User may use the Individually Scheduled Item Input process to enter Sub Debt with other repayment options.
+### Individually Scheduled Subordinated Debt Repayment
+On the Individually Scheduled Item Input page, there is a section for Subordinated Debt that allows the User to enter up to six individual separate Sub Debts each with four separate repayment options, Interest Only, Amortized Level Payment, Level Principal plus Interest.
+### Subordinate Debt Prepayment Penalty
+Because Subordinate Debt is subordinate to Senior Debt, it often is at a higher interest rate than the Senior Debt.
+If the Company has excess cash, it may choose to pay down the higher interest rate debt prior to the end of the debt term. The term of the Subordinate Debt is often integral in providing a certain desired rate of return on the investment for the debt holder. Because of this there often will be a prepayment penalty for any early pay down of the Subordinate Debt.
+The Prepayment % penalty will apply to the prepayment of the principal portion of all Subordinate Debt in the Transaction Sheet, Existing Company and the Individually Scheduled Subordinate Debt which includes all the Subordinate Debt in this analysis. The penalty will reduce cash and be an expense in the year of payment.
+The Subordinate Prepayment % is an input on the Subordinate Prepayment Penalty Input page.

@@ -1,0 +1,7 @@
+# Interest Income
+## Category: Income
+Interest income comes from either the interest bearing portion of the Other Current Asset or the Individually Scheduled Security/Notes Receivable.
+Beginning Interest Receivable can be entered as a beginning Existing Company Asset. It will be automatically received at the end of Year 1 as a cash inflow item. This will be reflected as Cash Basis Income, but not Accrual Income. The User may make an AJE (see AJE Process) to extend this item if it is not to be collected in year 1, however in that case it should not be listed as a Current Asset (assets to be collected within 1 year) but rather as an Other LT Asset.
+Interest income for a given year (Accrual Interest Income) is the Interest Rate as indicated in the initial item set up (Other Current Asset or Individual Scheduled Note) multiplied by the principal balance of the item at the beginning of the year and is shown as accrued interest income for that year.
+Interest received in a given year can be adjusted by an AJE. The other side of the AJE entry may be either cash or Interest Receivable Asset. When Interest Receivable is reduced with an AJE and the debit is cash, it becomes cash received and that amount is included with the Regular Interest received.
+Cash Flow Control adjustments may be made to either Other Current Asset or Individually Scheduled Notes and will be first applied to any outstanding interest and then to principal.

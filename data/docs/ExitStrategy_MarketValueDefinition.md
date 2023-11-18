@@ -1,0 +1,14 @@
+# Market Value Definition
+## Category: Exit Strategy
+### Market Value Liquidation - Return
+In the Exit Strategy Input page, there are two ways to input the Market Value of a company sale, EBITDA Multiple or Direct Value:
+### EBITDA Multiple used as indication of Economic Value
+After the Company's EBITDA is determined, the economic value of the operations  of the Company is often expressed as a multiple of the Company's EBITDA. Generally this ranges from a low multiple of 2-3 to a high multiple of over 10 (for private companies). The actual multiple used is determined by how stable the present EBITDA is going forward given a certain risk level. If there is a good case that the EBITDA will increase substantially going forward at an acceptable risk level, then a higher multiple is justified. If on the other hand, the EBITDA growth is declining, a lower multiple is justified or the risk of EBITDA volatility is relatively high, the multiple should be lower.
+### EBITDA Multiple used as the Exit Strategy Value
+EBITDA Multiples for a Market Value Sale of the Company can be set with the Exit Strategy Input page. The Exit Strategy page will allow the User to exclude from the EBITDA Multiple Value Sale certain asset categories on the Balance Sheet such as A/R, Inventory, Notes Receivable, Equipment or Real Estate.
+An EBITDA Multiple can be set for one individual year at a time or for each year the balance of the Horizon Years. Using the EBITDA Multiple method of valuation provides an easy measure of value on an ongoing basis as it automatically reflects the performance of the company.
+### Direct Value Input for Exit Strategy Value
+A Direct Value for a Company is simply a number entered by the User that represents the value of the Company or the assets being purchased. This can be used for a Company that has a large amount of hard assets that have a value not fully represented by the operating earnings of the Company. This is most common with real estate assets, note receivables, intellectual property or patents or simply a future value not yet realized.
+A Direct Value can be used together with the EBITDA Multiple Method or separately as a total value for the company.
+The Exit Value may be entered for only the end of the Horizon time period, however for Horizon time periods over 10 years, the User should be sure to at least enter an appropriate Exit Value for Year 10 as well as the end of the Horizon time period. The *ThruThink Deal Evaluation* evaluates only the first 10 years of a deal and will use the Hard Asset liquidation value for the Exit Value at year 10, if there is not a Market Value available.
+The Cash balance of the Company as well as its Debt are not usually included in a Market Valuation, therefore for a net benefit from a Market Value Exit Sale, Cash is added to the Market Value and the Debt is subtracted along with any excluded assets described above.

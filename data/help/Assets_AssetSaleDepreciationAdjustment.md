@@ -1,0 +1,3 @@
+# Asset Sale - Depreciation Adjustment
+## Category: Assets
+For the years following the Asset Sale, the regular depreciation expense will continue but be reduced by an allocated amount representing the Sold Asset. The Sale Amount will be divided by an estimate for the remaining life for assets in that Asset Class which will reduce the annual depreciation expense amount for the Asset Class (ex: all assets booked as Machinery & Equipment). This adjustment is only an estimate and not based on specific asset removal as the exact year of original acquisition of the Sold Asset is unknown. An Adjusting Journal Entry may be made to Accumulated Depreciation, Depreciation Expense and Gain/Loss on Sale to make more specific adjustments.

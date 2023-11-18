@@ -1,0 +1,10 @@
+# Loan Reserves and Ineligibles
+## Category: Liabilities
+All of the Senior Debt categories on the Transaction Sheet of Accounts Receivable, Inventory, Machinery & Equipment, Buildings & Improvements and Real Estate Debt include a provision for an Ineligible or Reserve percentage. The loan amount calculations reduce the asset value by the Ineligible/Reserve percentage before applying the Loan to Value percentage to arrive at the amount of the Loan.
+Ineligibles are the part of the asset that serves as loan Collateral that is not of reasonable value or condition to serve as loan Collateral. This can be old, spoiled or obsolete inventory, old accounts receivables or any factor that the Lender feels will hamper the ability of the collateral to be converted to cash to pay down the loan.
+Loan Reserves are a reserve for any unforeseen situation that will reduce the value of the Collateral and reduce the Collateral's conversion to cash to pay off the Loan.
+For Inventory, there is a provision to enter an amount for a Loan Reserve in addition to a percentage. This is useful in the case a fixed value of Inventory needs to be removed from the loan amount calculation.
+Receivables from foreign Sales (customers in another country) are often considered ineligible receivables for lending purposes.
+Lenders generally use some Percentage for a Ineligible/Reserve amount for certain types of Inventory (old, spoiled or obsolete inventory) and Accounts Receivables over 60 days old (possibly uncollectable).
+In the *ThruThink* analysis, there is an Ineligible provision for the other Senior debt categories besides the Accounts Receivables and Inventory which can be used by the User to plan for possible value differences with the lender or any reason to reduce the asset value for lending purposes. The Ineligible Input can be left empty and simply reduce the Loan to Value Ratio to accomplish the same purpose.
+The Ineligible or Reserve in the *ThruThink* analysis is expressed as a % of the total loan Collateral value. To calculate the amount of available loan, the loan Collateral value will be reduced by the Reserve % before the Loan to Value % is applied.
